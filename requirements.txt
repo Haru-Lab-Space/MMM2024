@@ -5,3 +5,4 @@ scikit-learn
 focal-loss-torch
 tqdm
 Pillow
+pytorch 
