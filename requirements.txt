@@ -1,0 +1,7 @@
+transformers
+requests
+io
+scikit-learn
+focal-loss-torch
+tqdm
+Pillow
