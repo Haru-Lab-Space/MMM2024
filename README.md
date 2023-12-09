@@ -4,7 +4,7 @@
 
 ### Introduction
 
-The code is to create a model that can help find the correlation between images and text in terms of scent
+The code aims to develop a model that can identify correlations between images and text based on scent.
 
 #### Requirements
 
