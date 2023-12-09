@@ -22,9 +22,9 @@ This code built with the following libraries
 Installation
 
 ```
-    !git clone https://github.com/Haru-Lab-Space/MMM2024.git
-    cd MMM2024
-    !pip install -r requirements
+!git clone https://github.com/Haru-Lab-Space/MMM2024.git
+cd MMM2024
+!pip install -r requirements
 ```
 
 ### Method
@@ -56,13 +56,13 @@ Performance of different methods for data imbalance problem on test set.
 ### Training
 
 ```
-    !jupyter nbconvert --execute training.ipynb
+!jupyter nbconvert --execute training.ipynb
 ```
 
 ### Testing
 
 ```
-    !jupyter nbconvert --execute predict.ipynb
+!jupyter nbconvert --execute predict.ipynb
 ```
 
 file weight: https://drive.google.com/drive/folders/101hDXJByOdPa4tAA_i_KPGORQ4PwGkNm?fbclid=IwAR1GNGqJE1g0s9sJNk-pgqG0Im1bdtrJK4sBTyixrViCGAQAH2uGebaAZek
