@@ -1,4 +1,4 @@
-# MMM2024
+# Imbalanced data handling using attention guidance unit on MUSTI dataset
 
 Musti: Multimodal Understanding of Smells in Texts and Images
 
