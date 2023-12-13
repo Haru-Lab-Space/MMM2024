@@ -65,4 +65,4 @@ Performance of different methods for data imbalance problem on test set.
 !jupyter nbconvert --execute predict.ipynb
 ```
 
-file weight: https://drive.google.com/drive/folders/101hDXJByOdPa4tAA_i_KPGORQ4PwGkNm?fbclid=IwAR1GNGqJE1g0s9sJNk-pgqG0Im1bdtrJK4sBTyixrViCGAQAH2uGebaAZek
+file weight: https://drive.google.com/file/d/1C02JW2dCKN_IpoGnFadRr9RXH62fyuH2/view?usp=sharing
