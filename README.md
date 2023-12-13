@@ -29,7 +29,7 @@ cd MMM2024
 
 ### Method
 
-<img src= "architecture.jpg" alt='Architecture' width = '150%' height = '150%' title = 'Architecture'>
+<img src= "architecture.png" alt='Architecture' width = '150%' height = '150%' title = 'Architecture'>
 
 - Image Encoder: The image encoder is a set of encoders of the Vision Transformer and Resnet-34 models.
 - Text Selection Feature (TSF): This processing block aims to focus the text encoder on essential features by leveraging the comparatively smaller set of features required. Instead of relying solely on the expansive capabilities of the text encoder, we utilize the output from the image encoder to guide and narrow down the text embedding to crucial features. By sequentially appending the text embedding to the image encoding unit outputs, a linear classifier determines the extent to which information from the image encoder is retained. This process essentially acts as an "instructor" for the text encoding unit, directing attention to important and necessary features.
