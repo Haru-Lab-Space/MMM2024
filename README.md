@@ -1,4 +1,4 @@
-<!-- # Imbalanced data handling using attention guidance unit on MUSTI dataset -->
+<!-- # Handle the problem of ample label space by using the Image-guided Feature Extractor on the MUSTI dataset -->
 
 ## Musti: Multimodal Understanding of Smells in Texts and Images (MMM2024)
 
